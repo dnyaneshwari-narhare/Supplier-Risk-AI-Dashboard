@@ -18,7 +18,13 @@ This project addresses supply chain volatility by transitioning from reactive mo
 
 ##  Dashboard Preview
 ![Main Dashboard](visuals/dashboard_1.png)
-*Figure 1: Power BI Executive Overview highlighting supplier risk clusters and KPI trends.*
+*Figure 1: Power BI Executive Overview highlighting supplier risk clusters and KPI trends below average.*
+
+![Main Dashboard](visuals/dashboard_2.png)
+*Figure 2: Power BI Executive Overview highlighting supplier risk clusters and KPI trends above average.*
+
+![Main Dashboard](visuals/dashboard_3.png)
+*Figure 3: Power BI Executive Overview highlighting supplier risk clusters and KPI trends for United States specifically*
 
 ##  Key Features
 1. **Predictive Modeling:** Utilizes XGBoost to classify suppliers into High, Medium, and Low risk tiers.
